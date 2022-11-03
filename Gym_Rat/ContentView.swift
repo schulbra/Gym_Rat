@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Gym_Rat
 //
-//  Created by Ciera Conley on 11/2/22.
+//  Created by BS on 11/2/22.
 //
 
 import SwiftUI
